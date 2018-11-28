@@ -1,0 +1,4 @@
+name: r-echo-app
+version: v1
+inputs:
+   msg: character
