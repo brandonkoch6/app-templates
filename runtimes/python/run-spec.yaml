@@ -1,4 +1,0 @@
-name: py-echo-app
-version: v1
-inputs:
-   msg: str

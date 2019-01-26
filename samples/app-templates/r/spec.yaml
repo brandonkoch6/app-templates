@@ -1,7 +1,7 @@
-name: r-echo-app
+name: hello-r
 version: v1
 runtime: R
-src: ./echo.R
+src: ./hello.R
 entrypoint: handler
 replicas: 1
 poolsize: 1

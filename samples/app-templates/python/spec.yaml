@@ -1,7 +1,7 @@
-name: py-echo-app
+name: hello-python
 version: v1
 runtime: Python
-src: ./echo.py
+src: ./hello.py
 entrypoint: handler
 replicas: 1
 poolsize: 1
